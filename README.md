@@ -52,7 +52,7 @@ We used the *plant disease detection Dataset* from Mendeley Data to train and te
 - CI/CD via GitHub  
 
 ---
-## 🔄 Workflow  
+## 🔄 Workflow
 
 1. Farmer inputs crop, soil, and farm data  
 2. System enriches with weather and market data  
@@ -107,8 +107,6 @@ We used the *plant disease detection Dataset* from Mendeley Data to train and te
 <img width="1919" height="873" alt="Screenshot 2025-09-28 094424" src="https://github.com/user-attachments/assets/2cad3122-ddeb-49f8-bb42-2bc6e70dd01b" />
 <img width="1917" height="868" alt="Screenshot 2025-09-28 094439" src="https://github.com/user-attachments/assets/af7a697d-1138-4432-8cb5-8b24eee529e4" />
 <img width="1919" height="873" alt="Screenshot 2025-09-28 094533" src="https://github.com/user-attachments/assets/1dc37cdc-ba75-4076-8209-818cb606669d" />
-<img width="1918" height="876" alt="Screenshot 2025-09-28 094559" src="https://github.com/user-attachments/assets/4c61beab-86b1-456b-b855-7c5bfe2afce3" />
-<img width="1919" height="869" alt="Screenshot 2025-09-28 094648" src="https://github.com/user-attachments/assets/1dd539bb-7566-4fcb-ae0f-63d67f5b63cd" />
 
 ---
 
