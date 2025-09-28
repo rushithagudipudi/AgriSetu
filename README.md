@@ -20,7 +20,7 @@ AgriSetu is a data-driven decision-support platform designed to help farmers boo
 
 We used the *Crop Recommendation Dataset* from Kaggle to train and test our models:  
 🔗 [Crop Recommendation Dataset – Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)  
-
+[Fertilizer Reccomendation Dataset-Kaggle](https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction)
 ---
 
 ## 🛠 Tech Stack  
