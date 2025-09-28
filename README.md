@@ -20,7 +20,13 @@ AgriSetu is a data-driven decision-support platform designed to help farmers boo
 
 We used the *Crop Recommendation Dataset* from Kaggle to train and test our models:  
 🔗 [Crop Recommendation Dataset – Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)  
-[Fertilizer Reccomendation Dataset-Kaggle](https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction)
+
+  We used the *Fertilizer Recommendation Dataset* from Kaggle to train and test our models:  
+🔗[Fertilizer Reccomendation Dataset-Kaggle](https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction)
+
+For Plant Disease Detection Using Convolutional Neural Networks with PyTorch, the data-set has, 39 different classes of plant leaf and background images are available. The data-set containing 61,486 images. We used six different augmentation techniques for increasing the data-set size. The techniques are image flipping, Gamma correction, noise injection, PCA color augmentation, rotation, and Scaling.
+There is a total of 39 Classes that we have to predict using the CNN Model.
+🔗[Plant disease detection Dataset-Mendeley Data](https://data.mendeley.com/datasets/tywbtsjrjv/1]
 ---
 
 ## 🛠 Tech Stack  
