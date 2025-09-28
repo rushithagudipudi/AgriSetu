@@ -117,6 +117,3 @@ AgriSetu aims to empower farmers with actionable insights, improve yields, boost
 
 ---
 
-## 📜 License  
-This project is licensed under the *MIT License* – feel free to use and modify with attribution.
-
