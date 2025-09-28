@@ -1,47 +1,94 @@
-# ⭐Plant-Disease-Detection
-* Plant Disease is necessary for every farmer so we are created Plant disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training we are using Plant village dataset. Dataset Link is in My Blog Section.
+# 🌱 AgriSetu  
 
-## ⭐Run Project in your Machine
-* You must have **Python3.8** installed in your machine.
-* Create a Python Virtual Environment & Activate Virtual Environment [Link](https://docs.python.org/3/tutorial/venv.html)
-* Install all the dependencies using below command
-    `pip install -r requirements.txt`
-* Go to the `Flask Deployed App` folder.
-* Download the pre-trained model file `plant_disease_model_1.pt` from [here](https://drive.google.com/drive/folders/1ewJWAiduGuld_9oGSrTuLumg9y62qS6A?usp=share_link)
-* Add the downloaded file in `Flask Deployed App` folder.
-* Run the Flask app using below command `python3 app.py`
-* You can also use downloaded file in `Model` Section and play with it using Jupyter Notebook.
+AgriSetu is a data-driven decision-support platform designed to help farmers boost productivity and profitability through real-time insights.  
 
-## ⭐Contribution ( Open Source )
-* This Project is now open source.
-* All the developers who are intrested they can contribute in this project.
-* Yo can make UI better , make Deep learning model more powerful , add informative markdown file in section...
-* If you will change Deep learning make sure you upload updated markdown file (.md) , .pdf and .ipynb in particular section.
-* Make sure your code is working. It will not have any type or error.
-* You have to fork this project then make a pull request after you testing will successful.
-* How to make pull request : https://opensource.com/article/19/7/create-pull-request-github
+---
 
+## 🚀 Key Features  
 
-## ⭐Testing Images
+- *Crop Recommendations:* Suggests suitable crops based on soil, weather, and regional data.  
+- *Disease Detection:* Identifies crop diseases from uploaded images using CNN models and provides treatment guidance.  
+- *Fertilizer Recommendations:* Suggests the right type and quantity of fertilizers for efficient use.  
+- *Weather Alerts:* Provides timely weather updates to help plan farm activities.  
+- *Market Price Forecasts:* Predicts daily crop prices to maximize profit.  
+- *Supplements Store:* Connects farmers to nearby suppliers and online marketplaces.  
+- *Multilingual Support:* Interface and insights available in multiple languages for accessibility.  
 
-* If you do not have leaf images then you can use test images located in test_images folder
-* Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
+---
 
-## ⭐Blog Link
-<a href="https://medium.com/analytics-vidhya/plant-disease-detection-using-convolutional-neural-networks-and-pytorch-87c00c54c88f" target = "_blank">Plant Disease Detection Using Convolutional Neural Networks with PyTorch</a><br>
+## 📂 Dataset  
 
-## ⭐Deployed App
-<a href="https://plant-disease-detection-ai.herokuapp.com/" target = "_blank">Plant-Disease-Detection-AI</a><br>
+We used the *Crop Recommendation Dataset* from Kaggle to train and test our models:  
+🔗 [Crop Recommendation Dataset – Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)  
 
+---
 
-## ⭐Snippet of Web App :
-#### Main page
-<img src = "demo_images/1.png" > <br>
-#### AI Engine 
-<img src = "demo_images/2.png"> <br>
-#### Results Page 
-<img src = "demo_images/3.png"> <br>
-#### Supplements/Fertilizer  Store
-<img src = "demo_images/4.JPG"> <br>
-#### Contact Us 
-<img src = "demo_images/5.png"> <br><br>
+## 🛠 Tech Stack  
+
+*Frontend:*  
+- HTML5, CSS3, Bootstrap, JavaScript  
+
+*Backend:*  
+- Flask (Python), XAMPP (Apache, PHP, MySQL)  
+
+*Machine Learning & AI:*  
+- *Libraries:* PyTorch, Scikit-learn, Pandas, NumPy, Torchvision, PIL  
+- *Models:* CNN for image-based disease detection, ML models for crop & fertilizer recommendations and price forecasting  
+
+*NLP & Multilingual:*  
+- NLTK, Google Translate API (or similar) for multilingual support  
+
+*External Integrations:*  
+- Weather APIs for real-time forecasts  
+
+*Deployment:*  
+- AWS EC2 / Render  
+- CI/CD via GitHub  
+
+---
+## 🔄 Workflow  
+
+1. Farmer inputs crop, soil, and farm data  
+2. System enriches with weather and market data  
+3. Data is cleaned, normalized, and processed  
+4. ML & CNN models generate predictions and recommendations  
+5. Insights are delivered in the selected language on the web dashboard  
+
+---
+
+## 🖼 Screenshots  
+
+> Add your screenshots inside a screenshots folder and link them below.
+
+### 🏠 Home Page  
+ 
+<img width="1919" height="879" alt="Screenshot 2025-09-28 094050" src="https://github.com/user-attachments/assets/0e34273c-7520-488d-9512-20749643e2fc" />
+
+### 🌾 Crop Recommendations  
+![Crop Recommendations](screenshots/crop_recommendations.png)  
+
+### 🦠 Disease Detection  
+![Disease Detection](screenshots/disease_detection.png)  
+### 🧪 Fertilizer Recommendations  
+![Fertilizer Recommendations](screenshots/fertilizer_recommendations.png)  
+
+### ☀ Weather Alerts  
+![Weather Alerts](screenshots/weather_alerts.png)  
+
+### 💰 Market Price Forecasts  
+![Market Prices](screenshots/market_prices.png)  
+
+### 🛒 Supplements Store  
+![Supplements Store](screenshots/supplements_store.png)  
+
+---
+
+## 🌟 Vision  
+
+AgriSetu aims to empower farmers with actionable insights, improve yields, boost income, and promote sustainable farming practices through the power of data, machine learning, and multilingual accessibility.  
+
+---
+
+## 📜 License  
+This project is licensed under the *MIT License* – feel free to use and modify with attribution.
+
