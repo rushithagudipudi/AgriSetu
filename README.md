@@ -26,6 +26,7 @@ We used the *Fertilizer Recommendation Dataset* from Kaggle to train and test ou
 
 We used the *plant disease detection Dataset* from Mendeley Data to train and test our models:  
 🔗[Plant disease detection Dataset-Mendeley Data](https://data.mendeley.com/datasets/tywbtsjrjv/1)
+
 ---
 
 ## 🛠 Tech Stack  
